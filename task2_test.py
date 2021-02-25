@@ -8,3 +8,5 @@ def test1():
 def test2():
   assert task2.largest([5,1,12.3]) == 12.3
 
+
+test1()

@@ -8,8 +8,6 @@ The return value is the largest value in the list
 """
 
 def largest(a):
-    print(a)
     a.sort()
-    print(a)
-    print(a[-1])
+    return(a[-1])
     
