@@ -8,5 +8,10 @@ added together
 """
 
 def perimeter(a):
-    for a in list:
-        return a
+    sum=0
+    for b in a:
+        b+sum
+        sum+perimeter
+        return b
+
+
