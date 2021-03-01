@@ -6,3 +6,5 @@ def test1():
 
 def test2():
   assert task4.isInteger( -2 ) == True
+
+test2()
