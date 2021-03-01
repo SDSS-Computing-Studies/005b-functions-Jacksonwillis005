@@ -10,8 +10,5 @@ added together
 def perimeter(a):
     sum=0
     for b in a:
-        b+sum
-        sum+perimeter
-        return b
-
-
+        sum = b + sum
+    return(sum)
